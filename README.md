@@ -16,17 +16,22 @@ The trained model predicted that the most effective decoction would be Jowiseung
 
 
 ## Each disease dataset
->HLP 
->>Positive(11) : Hyperlipidemia dataset
->>Negative(11)  : other drug dataset (acitretin, APAs, aspirin, azathioprine, Calcipotriol, ciclosporin, Hydroxychloroquine, Leflunomide, mesalazine, Methotrexate, ticlopidine)
+>HLP (Hyperlipidemia)
+>> Positive(11) : Hyperlipidemia dataset
+>> 
+>> Negative(11)  : other drug dataset (acitretin, APAs, aspirin, azathioprine, Calcipotriol, ciclosporin, Hydroxychloroquine, Leflunomide, mesalazine, Methotrexate, ticlopidine)
 
->HTN 
->>Positive(16) : Hypertension dataset
->>Negative(16) : other drug dataset (ALL dataset)
 
->T2D 
->>Positive(16) : Type 2 diabetes dataset
->>Negative(16) : other drug dataset (ALL dataset)
+>HTN (Hypertension)
+>> Positive(16) : Hypertension dataset
+>> 
+>> Negative(16) : other drug dataset (ALL dataset)
+
+
+>T2D (Type 2 Diabetes)
+>> Positive(16) : Type 2 diabetes dataset
+>> 
+>> Negative(16) : other drug dataset (ALL dataset)
 ###### *HLPs are less numerous than other data to ensure a 1:1 ratio of positive to negative data
 
 
