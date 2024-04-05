@@ -46,8 +46,11 @@ The trained model predicted that the most effective decoction would be Jowiseung
 
 1. Pre-trained with "GCN pre-training.py" (file paths are all annotated).
 2. Based on the learned data, apply it to herbal prescription data through the "learning to herbal prescriptions.py".
+
 > 5 fold cross validation: used to check the performance of GCN pre-training model
+> 
 > Bootstrapping: used to check the performance of GCN pre-training models
+
 
 ## Python Requirements 
 + Python 3.11.2
@@ -57,6 +60,7 @@ The trained model predicted that the most effective decoction would be Jowiseung
 + Matplotlib 3.8.0
 + Seaborn 0.13.1
 + CUDA 12.1
+
 
 ## License
 This codes released under [MIT License](https://github.com/Rapoudok/GCN-herbal-medicine/blob/main/LICENSE).
